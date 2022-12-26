@@ -1,4 +1,4 @@
-# sobre-mi
+# console.log('Hola!')
 
 Hola! 🎉 Mi nombre es Blas y tengo 21 años. Soy de Argentina y estudio programación 💻 Actualmente estoy estudiando una Tecnicatura de Software, pero también soy autodidacta y me encanta hacer proyectos por mi cuenta para seguir aprendiendo más 🤓.
 
