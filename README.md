@@ -1,6 +1,6 @@
                                                  Hola! 🎉 Este es mi perfil de GitHub
 
-Mi nombre es Blas y tengo 21 años. Soy de Argentina y me encanta la programación 💻 Actualmente estoy estudiando una tecnicatura de software, pero también soy autodidacta y me encanta hacer proyectos por mi cuenta para seguir aprendiendo más 🤓.
+Mi nombre es Blas y tengo 21 años. Soy de Argentina y me gusta la programación 💻 Actualmente estoy estudiando una tecnicatura de software, pero también soy autodidacta y paso el tiempo haciendo proyectos por mi cuenta para seguir aprendiendo más 🤓.
 
 Mis objetivos a largo plazo son:
 
