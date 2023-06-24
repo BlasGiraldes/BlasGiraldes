@@ -1,6 +1,11 @@
 # 💫 About Me:
-Mi nombre es Blas y tengo 21 años. Soy de Argentina y me gusta la programación 💻 Actualmente estoy estudiando una tecnicatura de software, pero también soy autodidacta y paso el tiempo haciendo proyectos por mi cuenta para seguir aprendiendo más 🤓.<br><br>Mis objetivos a largo plazo son:<br><br>• 🚀 Seguir creciendo como programador y llegar a ser experto en mi área de interés<br><br>• 💪 Trabajar en proyectos interesantes y desafiantes que me permitan seguir aprendiendo y desarrollando mis habilidades<br><br>• 🎓 Continuar mi formación y obtener una certificación o título en mi campo de interés<br><br>• 🤝 Colaborar con otros profesionales y aprender de ellos en proyectos en equipo<br><br>• 🌎 Viajar y conocer nuevas culturas<br><br>Me gusta aprender sobre nuevas tecnologías y estoy constantemente buscando maneras de mejorar y crecer como profesional 💡 Si queres saber más sobre mi experiencia y habilidades, podes visitar mi perfil de LinkedIn<br><br>En resumen, mis objetivos son seguir aprendiendo y desarrollándome como programador, trabajar en proyectos desafiantes y ayudar a otros a aprender y crecer en el mundo de la tecnología 🚀<br><br>¡Saludos!
+¡Hola! Soy Blas, desarrollador web full stack de Argentina 🚀💻 Soy autodidacta y estudio una tecnicatura en software. Paso el tiempo haciendo proyectos por mi cuenta para seguir aprendiendo más 🤓
+<br><br>Mis objetivos a largo plazo son:<br><br>•  💪 Crecer como programador y alcanzar la excelencia en mi área de interés.<br><br>•🎓 Obtener certificaciones para seguir formándome.
+<br><br>• 🤝 Colaborar en proyectos en equipo y aprender de otros profesionales.
+<br><br>• 🌎 Viajar y sumergirme en nuevas culturas.
+Constantemente busco mejorar y aprender nuevas tecnologías 💡 Para más detalles sobre mi experiencia y habilidades, visita mi perfil de LinkedIn.
 
+Mi objetivo es seguir creciendo como programador, trabajar en proyectos desafiantes y ayudar a otros a crecer en el mundo de la tecnología 🚀 ¡Saludos!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/blasgiraldes/) 
