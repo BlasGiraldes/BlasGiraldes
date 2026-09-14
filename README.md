@@ -6,6 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%2B+TypeScript;PHP+%2B+Laravel;Security-minded+engineering" alt="Full-Stack Developer, React and TypeScript, PHP and Laravel" />
 
+<sub>Building reliable web systems, from interface to database.</sub><br>
+<sub>Construyendo sistemas web confiables, desde la interfaz hasta la base de datos.</sub>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blas_Giraldes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blasgiraldes/)
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-20232A?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -32,23 +35,42 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,php,laravel,mysql,html,css,sass,docker,git&perline=11" alt="React, TypeScript, JavaScript, PHP, Laravel, MySQL, HTML, CSS, Sass, Docker and Git" />
 
 </div>
 
 ### Engineering toolkit · Herramientas de ingeniería
 
 `REST APIs` · `HTTP` · `SQL` · `PDO` · `Authentication` · `Authorization` · `Testing` · `Docker` · `Git` · `OWASP` · `CI/CD` · `Debugging`
+
+## What I build · Qué construyo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Interfaces that make sense</h3>
+<p>Responsive experiences built with React, TypeScript and modern JavaScript.</p>
+<sub>Interfaces responsivas y claras con React, TypeScript y JavaScript moderno.</sub>
+</td>
+<td width="50%" valign="top">
+<h3>Backends that hold up</h3>
+<p>Business logic, authentication, APIs and data flows with PHP, Laravel and MySQL.</p>
+<sub>Lógica de negocio, autenticación, APIs y datos con PHP, Laravel y MySQL.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Practical security</h3>
+<p>Security decisions integrated into each feature, guided by OWASP principles.</p>
+<sub>Seguridad integrada en cada funcionalidad, guiada por principios OWASP.</sub>
+</td>
+<td width="50%" valign="top">
+<h3>End-to-end debugging</h3>
+<p>Following failures across the browser, HTTP, application code and database.</p>
+<sub>Seguimiento de errores desde el navegador y HTTP hasta el código y la base.</sub>
+</td>
+</tr>
+</table>
 
 ## Selected projects · Proyectos destacados
 
@@ -61,7 +83,7 @@
 | [**WeCamp**](https://github.com/BlasGiraldes/WeCamp) | Conference platform with events, workshops and ticket flows.<br><sub>Plataforma de conferencias, talleres y venta de entradas.</sub> | PHP 8, MySQL, JavaScript, Sass |
 | [**BlasFest**](https://github.com/BlasGiraldes/BlasFest) | Responsive music-festival experience.<br><sub>Experiencia responsive para un festival de música.</sub> | JavaScript, SCSS, HTML |
 
-## How I build · Cómo trabajo
+## How I work · Cómo trabajo
 
 <table>
 <tr>
@@ -77,5 +99,9 @@
 ### Build it · Understand it · Improve it
 
 <sub>Construirlo · Entenderlo · Mejorarlo</sub>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blasgiraldes/)
 
 </div>
